@@ -1,0 +1,12 @@
+body{ height:100vh; display:flex; justify-content:center; align-items:center; background:url('https://khoinguonsangtao.vn/wp-content/uploads/2022/07/anh-anime-phong-canh-hoa-anh-dao-no-ro.jpg'); background-size:cover; background-position:center; } .window{ width:400px; height:380px; padding:40px; text-align:center; border:1px solid white; border-radius:20px; backdrop-filter:blur(20px) brightness(200%); display:flex; flex-direction:column; justify-content:center; align-items:center; color:#C0C0C0; } form{ width:100%; } border:1px solid white;
+.container h1 {
+  color: blue; /* Màu phông chữ cho tiêu đề h1 */
+}
+
+.container p {
+  color: #FF1493; /* Màu phông chữ cho các đoạn văn bản p */
+}
+
+.container a {
+  color: Blue; /* Màu phông chữ cho các liên kết a */
+}
